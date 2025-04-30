@@ -52,6 +52,8 @@ I am interested in building safe, interpretable and robust AI systems. My work i
 
 [[Past News](/pastnews/)]
 
+- [04/2025] Posters presentations at [ICLR 2025](https://iclr.cc/Conferences/2025/) and [AABI 2025](https://approximateinference.org/) in Singapore
+- [03/2025] Accepted paper at [AABI 2025](https://approximateinference.org/) on Revisiting Influence Functions for Latent Variable Models using Variational Bayes
 - [01/2025] Accepted paper at [ICLR 2025](https://iclr.cc/Conferences/2025/) on Approximating Full Conformal Prediction for Neural Network Regression with Gauss-Newton Influence
 - [07/2024] Joined Qualcomm AI Research as a summer intern in the Distributed Learning & AI Safety Team working with [Christos Louizos](https://scholar.google.nl/citations?user=xrSUChoAAAAJ&hl=en) and [Alvaro Correia](https://scholar.google.com/citations?user=E9h9QKEAAAAJ&hl=en)
 - [06/2024] Participated in the [2nd Bayes-Duality Workshop](https://bayesduality.github.io/workshop_2024.html) in Japan between June 12-28 (talk + part of organizing team)</a>
@@ -60,8 +62,6 @@ I am interested in building safe, interpretable and robust AI systems. My work i
 - [02/2024] (Re-)joined RIKEN AIP in Tokyo as a [student trainee](https://aip.riken.jp/aip-osc2-0/) working with [Emtiyaz Khan](https://emtiyaz.github.io/) (until July 2024)
 - [01/2024] Accepted paper (oral) at [AISTATS 2024](https://aistats.org/aistats2024/) on Learning to Defer to a Population: A Meta-Learning Approach
 - [12/2023] Poster presentation at [NeurIPS 2023](https://nips.cc/Conferences/2023) in New Orleans
-- [11/2023] Oral presentation at Dutch Society of Pattern Recognition and Image Processing [Fall Meeting on Anomaly Detection](https://nvphbv.nl/event/fall-meeting-2023-anomaly-detection-229/)
-- [10/2023] Teaching assistant for [Human-in-the-Loop Machine Learning](https://enalisnick.github.io/human_ML.html) (UvA Master AI course) taught by [Eric Nalisnick](https://enalisnick.github.io/)
 
 ## Papers
 
@@ -74,7 +74,7 @@ I am interested in building safe, interpretable and robust AI systems. My work i
   
   *<span style="font-size:14px">13th International Conference on Learning Representations (ICLR)</span>*, <span style="font-size:14px">2025</span>
   
-  [paper](https://openreview.net/forum?id=vcX0k4rGTt) /
+  [paper](https://openreview.net/forum?id=vcX0k4rGTt) / [code](https://github.com/Qualcomm-AI-research/newton-influence-conformal) / [poster](./docs/poster_iclr25.pdf) / [slides](./docs/slides_iclr25.pdf)
   
   <!-- <p>&nbsp;</p> -->
   

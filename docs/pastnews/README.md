@@ -4,6 +4,8 @@ pageClass: home-page
 
 ## Past News
 
+- [11/2023] Oral presentation at Dutch Society of Pattern Recognition and Image Processing [Fall Meeting on Anomaly Detection](https://nvphbv.nl/event/fall-meeting-2023-anomaly-detection-229/)
+- [10/2023] Teaching assistant for [Human-in-the-Loop Machine Learning](https://enalisnick.github.io/human_ML.html) (UvA Master AI course) taught by [Eric Nalisnick](https://enalisnick.github.io/)
 - [09/2023] Accepted paper at [NeurIPS 2023](https://nips.cc/Conferences/2023) on The Memory-Perturbation Equation
 - [08/2023] Poster presentation at [UAI 2023](https://www.auai.org/uai2023/) in Pittsburgh
 - [06/2023] Two accepted papers at the [ICML 2023 Workshop on Principles of Duality for Modern Machine Learning](https://dp4ml.github.io/)

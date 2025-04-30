@@ -10,8 +10,8 @@ pageClass: home-page
   **<u>Dharmesh Tailor</u>**, Alvaro Correia, Eric Nalisnick, Christos Louizos
   
   *<span style="font-size:14px">13th International Conference on Learning Representations (ICLR)</span>*, <span style="font-size:14px">2025</span>
-  
-  [paper](https://openreview.net/forum?id=vcX0k4rGTt) /
+
+  [paper](https://openreview.net/forum?id=vcX0k4rGTt) / [code](https://github.com/Qualcomm-AI-research/newton-influence-conformal) / [poster](../docs/poster_iclr25.pdf) / [slides](../docs/slides_iclr25.pdf)
   
   <!-- <p>&nbsp;</p> -->
   

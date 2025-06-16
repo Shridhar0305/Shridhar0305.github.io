@@ -17,15 +17,15 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: yarn install
 
-      - name: Build the site
+      - name: Build VuePress site
         run: yarn build
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
           folder: docs/.vuepress/dist
-          token: ${{ secrets.GITHUB_TOKEN }}

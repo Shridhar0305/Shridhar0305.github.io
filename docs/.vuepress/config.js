@@ -4,7 +4,7 @@ module.exports = {
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   // base: "/webpage-new/",
   base: "/",
-  dest: "docs/.vuepress/dist",
+  dest: "./dist",
 
   themeConfig: {
     search: false,

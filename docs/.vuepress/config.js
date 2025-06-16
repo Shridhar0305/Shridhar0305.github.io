@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Dharmesh Tailor",
+  title: "Shridhar Vashishtha",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   // base: "/webpage-new/",

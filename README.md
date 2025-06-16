@@ -22,3 +22,4 @@ http-server dist/
 
 - [imfing/vuepress-homepage](https://github.com/imfing/vuepress-homepage/tree/master) for the base website design
 - [denis-ev/denis-ev.github.io](https://github.com/denis-ev/denis-ev.github.io) for the Github actions page deployment
+- [https://dvtailor.github.io/](https://github.com/dvtailor/dvtailor.github.io) for the adaptation template of code and the website.

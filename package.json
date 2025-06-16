@@ -2,8 +2,8 @@
   "name": "vuepress-homepage",
   "version": "0.0.1",
   "description": "Generate your homepage with VuePress",
-  "author": "Dharmesh Tailor <dharmesh.tailor@live.co.uk>",
-  "repository": "https://github.com/dvtailor/dvtailor.github.io.git",
+  "author": "Shridhar Vashishtha <shridharvashishtha04@gmail.com>",
+  "repository": "https://github.com/Shridhar0305/Shridhar0305.github.io?tab=readme-ov-file",
   "scripts": {
     "clean": "rimraf dist/*",
     "dev": "vuepress dev docs",

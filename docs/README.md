@@ -13,8 +13,8 @@ email: shridhar.vashishtha [ AT ] utah.edu
 
 ## About Me
 
-I am a first year computer science PhD student at the Kahlert School of Computing & Scientific Computing and Imaging Institute at the University of Utah. I am supervised by [Dr. Mike Kirby](https://users.cs.utah.edu/~kirby/) and [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/). 
-I am broadly interested in scientific machine learning, physics-informed machine learning, probabilistic machine learning, and theoretical foundations of machine learning. 
+I am a first year computer science PhD student at the Kahlert School of Computing & Scientific Computing and Imaging Institute at the University of Utah. I am grateful to be supervised by [Dr. Mike Kirby](https://users.cs.utah.edu/~kirby/) and [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/). 
+I am broadly interested in AI for science & engineering, scientific machine learning, and the theoretical foundations of machine learning (with a particular interest in probabilistic machine learning).
 I completed my undergraduate degree in computer science from the University of Minnesota-Twin Cities under the supervision of [Dr. Vipin Kumar](https://www-users.cse.umn.edu/~kumar001/). My honors thesis was titled "[Deep Learning to Address Data Sparsity in Climate Change Monitoring](https://conservancy.umn.edu/items/194f096b-8dd4-4a88-94f2-60d13ad5c482)".
 
 <p style="font-size:17px; padding-top:0.75em ">Short Bio</p>
